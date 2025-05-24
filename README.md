@@ -71,7 +71,7 @@ project/ <br>
 
 SECRET_KEY=your_secret_key <br>
 EMAIL_HOST_USER=your_email@example.com <br>
-EMAIL_HOST_PASSWORD=your_email_password
+EMAIL_HOST_PASSWORD=your_email_password (GOOGLE PASSKEY generated password not gmail password)
 
 ## 📬 Email OTP Setup
 
